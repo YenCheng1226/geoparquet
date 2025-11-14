@@ -21,10 +21,8 @@ The project currently has no explicitly declared dependencies in `pyproject.toml
 
 2.  **Run the main script:**
     ```bash
-    python main.py
+    uv run main.py
     ```
-
-**TODO:** The `duckdb` dependency should be added to the `pyproject.toml` file.
 
 ## Development Conventions
 
